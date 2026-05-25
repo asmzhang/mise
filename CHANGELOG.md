@@ -1,5 +1,18 @@
 # Changelog
 
+## [2026.5.16](https://github.com/jdx/mise/compare/v2026.5.15..v2026.5.16) - 2026-05-25
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (2)
+
+- [`jgm/pandoc`](https://github.com/jgm/pandoc)
+- [`ktlint/ktlint`](https://github.com/ktlint/ktlint)
+
+#### Updated Packages (1)
+
+- [`betterleaks/betterleaks`](https://github.com/betterleaks/betterleaks)
+
 ## [2026.5.15](https://github.com/jdx/mise/compare/v2026.5.14..v2026.5.15) - 2026-05-23
 
 ### 🐛 Bug Fixes
